@@ -1,0 +1,3 @@
+
+Ini kita masukan buat ngetest di postman, kita import dulu buat 
+test task masing2
