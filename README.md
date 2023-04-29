@@ -9,12 +9,11 @@
 ## About Laravel
 
 1. buat baca mongodb, Kembalikan dulu Folder Vendornya <br>  dengan 
-composer update   namun akan terkendala di composer.json dan composer.lock  akan jadi gagal
-
-Kemudian ketik  <br>
-composer require jenssegers/mongodb        <br>
-atau  jika mongodb belum kebaca bisa pake  <br>
-composer require jenssegers/mongodb --ignore-platform-req=ext-mongodb  <br>
+composer update   namun akan terkendala di composer.json dan composer.lock  akan jadi gagal <br>
+   Kemudian ketik  <br>
+   composer require jenssegers/mongodb        <br>
+   atau  jika mongodb belum kebaca bisa pake  <br>
+   composer require jenssegers/mongodb --ignore-platform-req=ext-mongodb  <br>
 
 2. Cek dulu apa aja yg uda ke install <br>
 composer check-platform-reqs <br>
