@@ -23,7 +23,7 @@ composer check-platform-reqs <br>
 					  
     ext-dom              20031129     success <br>
 
-3. php artisan -V  <br>
+3. cek versi Ketik: php artisan -V  <br>
 
 4. php artisan migrate <br>
 
