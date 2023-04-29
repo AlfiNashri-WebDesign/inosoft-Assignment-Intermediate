@@ -8,8 +8,10 @@
 
 ## About Laravel
 
-1. buat baca mongodb, Kembalikan dulu Folder Vendornya <br> 
-ketik  <br>
+1. buat baca mongodb, Kembalikan dulu Folder Vendornya <br>  dengan 
+composer update   namun akan terkendala di composer.json dan composer.lock  akan jadi gagal
+
+Kemudian ketik  <br>
 composer require jenssegers/mongodb        <br>
 atau  jika mongodb belum kebaca bisa pake  <br>
 composer require jenssegers/mongodb --ignore-platform-req=ext-mongodb  <br>
