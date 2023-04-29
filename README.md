@@ -17,11 +17,11 @@ composer require jenssegers/mongodb --ignore-platform-req=ext-mongodb  <br>
 2. Cek dulu apa aja yg uda ke install <br>
 composer check-platform-reqs <br>
 
-Checking platform requirements for packages in the vendor dir
-composer-runtime-api 2.2.2 <br>
-ext-curl             7.4.22   success <br>
+    Checking platform requirements for packages in the vendor dir
+    composer-runtime-api 2.2.2 <br>
+    ext-curl             7.4.22   success <br>
 					  
-ext-dom              20031129     success <br>
+    ext-dom              20031129     success <br>
 
 3. php artisan -V  <br>
 
